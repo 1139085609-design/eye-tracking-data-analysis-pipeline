@@ -1,0 +1,4 @@
+stage,mean_of_mean_gap,median_of_median_gap,total_transitions,n_blockings
+Apprentice assist,0.4771624378544001,0.0669149999999998,228,7
+Apprentice work,0.3324976225536998,0.1167824999999993,394,6
+Expert work,0.18941875928410376,0.0335350000000289,314,6
